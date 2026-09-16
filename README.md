@@ -1,5 +1,7 @@
 # revese_clock
 
+    pip install ultralytics
+
 ## BOM
 
 | Item                                      | Quantity | Price     | Link |
