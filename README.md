@@ -17,3 +17,5 @@
 | 40 pin GPIO Header                        | 1        | $2.73        | [Link](https://ali.onl/2yvp) |
 | 3.7V to 5V Boost Converter      | 1        | $1.09      | [Link](https://ali.onl/2yvq) |
 | Power Switch                              | 5        | $1     | [Link](https://ali.onl/2yvr) |
+|Top Case                                   |1        |                 |Printing Legion|
+Base  Case                                   |1        |                 |Printing Legion|
