@@ -1,15 +1,24 @@
-# revese_clock
+# Revese_clock
 
+I have designed Reverse Clock which is a custom-built clock based on the Raspberry Pi Zero 2 W and a 1.54-inch 240×240 ST7789 TFT LCD.
+## CAD Design
 
-
+### Body 1
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/reverse_clock/blob/main/Images/picrvc1.png)
+### Body 2
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/reverse_clock/blob/main/Images/picrvc2.png)
+### Whole Body
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/reverse_clock/blob/main/Images/picrvc3.png)
 
+## Custom Firmware
 
+When I will get sleep , It will notify me not to go bed instead of completing my regular task . As rp 2w is an AI starter microcomputer I choosed this . 
+How to deploy YOLOV5 in rp 2w is mentioned below.
 
 
 ![image alt](https://github.com/hossainmahmudchowdhury-boop/reverse_clock/blob/main/Images/Screenshot%202026-09-16%20131902.png)
+
+At first I have to make the environment.
 
     pip install ultralytics
 
