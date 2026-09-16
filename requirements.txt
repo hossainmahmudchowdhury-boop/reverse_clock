@@ -1,0 +1,24 @@
+# Minimal base for Pi Zero 2 W
+numpy>=1.23.5
+opencv-python-headless>=4.6.0
+Pillow>=10.3.0
+PyYAML>=5.3.1
+requests>=2.32.2
+scipy>=1.4.1
+psutil
+
+# YOLO (use the lightest possible)
+ultralytics>=8.3.0          # supports YOLOv5/v8/v11
+torch                      # will install CPU version
+torchvision
+
+# Camera
+picamera2
+
+# Display (1.54" ST7789)
+st7789
+RPi.GPIO
+spidev
+
+# Optional but useful
+pandas
