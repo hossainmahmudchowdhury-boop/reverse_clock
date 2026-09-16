@@ -6,7 +6,7 @@
 
 | Item                                      | Quantity | Price     | Link |
 | ----------------------------------------- | -------- | --------- | ---- |
-| Raspberry Pi Zero 2 W                     | 1        | $17.25    | [Link]([https://ali.onl/2yvs](https://www.pishop.us/product/raspberry-pi-zero-2-w/?srsltid=AU7gw4Uwh_piMgZsoIv-WFcvLPeYlzQ45iJ4TRlX3KTMkuX6OQS7a58N)) |
+| Raspberry Pi Zero 2 W                     | 1        | $32.65    | [Link](https://ali.onl/2yvu) |
 | 5MP RPi Zero Camera + 15 cm FFC           | 1        | $9.71     | [Link](https://alishort.com/8dFxK) |
 | 1.54inch LCD Module 240x240 (ST7789)      | 1        | $11.72      | [Link](https://s.click.aliexpress.com/e/_Dmf...) |
 | TP4056 Charging Module (with protection)  | 1        | $5.61| [Link](https://ali.onl/2yvm) |
