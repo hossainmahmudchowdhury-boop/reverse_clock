@@ -10,8 +10,8 @@
 sudo apt install -y python3-pip python3-venv libatlas-base-dev libopenblas-dev libjpeg-dev
 
 # Create virtual environment
-python3 -m venv ~/drowsy_clock
-source ~/drowsy_clock/bin/activate
+python3 -m venv ~/reverse_clock
+source ~/reverse_clock/bin/activate
 
 # Install PyTorch first (CPU version for ARM)
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
