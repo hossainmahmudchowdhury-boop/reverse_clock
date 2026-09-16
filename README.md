@@ -5,6 +5,22 @@
 
     pip install ultralytics
 
+``` # Update system first
+  sudo apt update && sudo apt upgrade -y
+sudo apt install -y python3-pip python3-venv libatlas-base-dev libopenblas-dev libjpeg-dev
+
+# Create virtual environment
+python3 -m venv ~/drowsy_clock
+source ~/drowsy_clock/bin/activate
+
+# Install PyTorch first (CPU version for ARM)
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+
+# Then the rest
+pip install -r requirements.txt
+```
+
+
 ## BOM
 
 | Item                                      | Quantity | Price     | Link |
