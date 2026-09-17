@@ -36,6 +36,15 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
 # Then the rest
 pip install -r requirements.txt
 ```
+
+
+
+You have to train your drowsyness dataset . In this case I take the data from 
+
+     https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd
+
+It will take about 4hours+ in cpu but if you use a GPU or other high functional processor it won't take much time .
+
 #### Install app.py code
 
 ```
