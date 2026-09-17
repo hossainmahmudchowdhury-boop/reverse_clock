@@ -1,6 +1,7 @@
 # Revese_clock
 
 I have designed Reverse Clock which is a custom-built clock based on the Raspberry Pi Zero 2 W and a 1.54-inch 240×240 ST7789 TFT LCD.
+It will notify you when you get asleep in your study . It will also help you by providing Weather and the current time .
 ## CAD Design
 
 ### Body 1
@@ -64,6 +65,10 @@ model.predict(
 )
 ```
 
+## Diagram
+
+
+![image alt](https://github.com/hossainmahmudchowdhury-boop/reverse_clock/blob/main/Diagram/diagram.png)
 
 
 Firstly I identify myself
