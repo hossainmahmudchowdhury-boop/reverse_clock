@@ -36,6 +36,34 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
 # Then the rest
 pip install -r requirements.txt
 ```
+#### Install app.py code
+
+```
+
+from ultralytics import YOLO
+
+model = YOLO("runs/classify/train/weights/best.pt")
+
+print("Model loaded!")
+print("Classes:", model.names)
+print("Starting webcam...")
+
+model.predict(
+    source=0,
+    show=True,
+    conf=0.4
+)
+```
+
+
+
+Firstly I identify myself
+![image alt](https://github.com/hossainmahmudchowdhury-boop/reverse_clock/blob/main/Images/Screenshot%202026-09-17%20005315.png)
+
+Secondly, I tried the Drowsiness feature
+![image alt](https://github.com/hossainmahmudchowdhury-boop/reverse_clock/blob/main/Images/Screenshot%202026-09-18%20005146.png)
+Then try the nondrowsiness feature
+![image alt](https://github.com/hossainmahmudchowdhury-boop/reverse_clock/blob/main/Images/Screenshot%202026-09-18%20005230.png)
 
 
 ## BOM
