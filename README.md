@@ -97,4 +97,4 @@ Then try the nondrowsiness feature
 | Power Switch                              | 5        | $1     | [Link](https://ali.onl/2yvr) |
 |Top Case                                   |1        |                 |Printing Legion|
 |Base  Case                                   |1        |                 |Printing Legion|
-|Passive , shipping , screw , miscellaneous                                |        |       $12        ||
+|Passive , shipping , screw , miscellaneous                                |        |       $17        ||
