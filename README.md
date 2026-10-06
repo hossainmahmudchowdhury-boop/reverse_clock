@@ -84,7 +84,7 @@ Then try the nondrowsiness feature
 
 | Item                                      | Quantity | Price     | Link |
 | ----------------------------------------- | -------- | --------- | ---- |
-| Raspberry Pi Zero 2 W                     | 1        | $32.65    | [Link](https://ali.onl/2yvu) |
+| Raspberry Pi Zero                     | 1        | $25.88    | [Link](https://alishort.com/wzW86) |
 | 5MP RPi Zero Camera + 15 cm FFC           | 1        | $9.71     | [Link](https://alishort.com/8dFxK) |
 | 1.54inch LCD Module 240x240 (ST7789)      | 1        | $11.72      | [Link](https://s.click.aliexpress.com/e/_Dmf...) |
 | TP4056 Charging Module (with protection)  | 1        | $5.61| [Link](https://ali.onl/2yvm) |
