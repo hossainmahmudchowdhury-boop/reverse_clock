@@ -84,7 +84,7 @@ Then try the nondrowsiness feature
 
 | Item                                      | Quantity | Price     | Link |
 | ----------------------------------------- | -------- | --------- | ---- |
-| Orange Pi Zero 2W                     | 1        | $35.88    | [Link](https://ali.onl/2yHa) |
+| Walnut Pi ZeroW 1                    | 1        | $26    | [Link](https://ali.onl/2yHb) |
 | 5MP RPi Zero Camera + 15 cm FFC           | 1        | $9.71     | [Link](https://alishort.com/8dFxK) |
 | 1.54inch LCD Module 240x240 (ST7789)      | 1        | $11.72      | [Link](https://s.click.aliexpress.com/e/_Dmf...) |
 | TP4056 Charging Module (with protection)  | 1        | $5.61| [Link](https://ali.onl/2yvm) |
